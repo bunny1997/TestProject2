@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         i=1;
         Toast.makeText(this, "from priyank", Toast.LENGTH_SHORT).show();
         x = 10;
+        x = 101;
     }
 }
