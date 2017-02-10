@@ -7,6 +7,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     public int i=0;
+    int x = 9;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
