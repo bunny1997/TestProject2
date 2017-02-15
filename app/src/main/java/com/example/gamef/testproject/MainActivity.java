@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "from priyank", Toast.LENGTH_SHORT).show();
         x = 10;
         x = 101;
+        Toast.makeText(this, "this is done by priyank for  mona", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Priyank loves you the most , you are too beautiful to be true", Toast.LENGTH_SHORT).show();
     }
 }
